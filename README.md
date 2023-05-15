@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <b>I'm a proffessional with a experience in python/django</b>
+  <b>I'm a proffessional with  experience in python/django</b>
 </p>
 
 <img align='right' src="https://github.com/oHTGo/oHTGo/blob/main/images/coding.gif" width="400">
