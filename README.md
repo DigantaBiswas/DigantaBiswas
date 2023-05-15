@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <b>I'm a proffessional with  experience in python/django</b>
+  <b>I'm a proffessional with a experience in python/django</b>
 </p>
 
 <img align='right' src="https://github.com/oHTGo/oHTGo/blob/main/images/coding.gif" width="400">
@@ -23,7 +23,52 @@
 - 👨🏻‍💻 I am working at [Binate Solutions, Bangladesh](https://www.binate-solutions.com/) as a `Software Engineer`.
 - 🌱 I’m currently focusing on **Backend Web Development** and practicing **DevOps** everyday.
 - 💬 I’m looking forward to contribute to **Open Source Projects**.
-- Show ❤ by giving ⭐ to my Repositories, at least your star could make someone's day 😄.
+
+
+</details>
+<h2> My Journey </h2>
+<h3> Venture Solutions LTD </h3>
+<p>The first company recognized me as a potential candidate and gave me a chance . I am really greatful to them for providing the 
+stepston when others did not. I learnt a lot from my very first job. As an intern I was blessed to work with wonderful people and 
+got a very important project . 
+I worked there for 1 year. The web application I worked for was a reporting tool for a renowend bank in Bangladesh. I was mainly 
+responsible for this project and was the largest contributor of the project. This web app still being used by the bank as far my knowledge. </p>
+<br>
+<p>The tech used here : Python/Django, mysql, celery, bootstrap, vanilla javascrip, jquery </p>
+
+<h3> Field Buzz </h3>
+<p>
+  I believe Fieldbuzz was the place where I turned into a responsible , structured and a to be effecient developer. Till now I knew to write code, 
+  but as it was only 1 year in the industry. I thought I knew OOP, I knew system design but after joining fieldbuzz I came to know that I was the frog
+  who lived in a well. 
+  Thanks to my awsome team lead. I learnet a lot from him. I fell in love with pycharm's debugging too. . Till now I use pycharms debugging tool like I 
+  I am obsessed with it. I leanet to be independet and learnt to work with complex design, used the best of OOP and started to enjoy my profession. 
+  Unfortunately fieldbuzz had to close down despite having huge clients like BRAC Internation, NKG (one of the largest coffee producer in the world) for
+  some internal reasons. 
+</p>
+<br>
+<p>
+  The things I learnt from Fieldbuzz
+</p>
+<ul>
+  <li>the true use of OOP</li>
+  <li>how to be a team player</li>
+  <li>how to write effecient, clean code</li>
+  <li>how to be independent and enjoy work</li>
+</ul>
+
+<h3> Binate Solutions LTD</h3>
+<p>
+  I am working as a software engineer at Binate solutions. Here I got opportunity to work colosely with foreing clients from Germany Netherlands etc. 
+  Binate solution is a awesome place to work. The team is great , we all work remotely but everyone is responsible and dedicated. Here I got the opportunity
+  to work in multiple proujects. I believe I am one of the very few devs in my time who got the opportunity to work in these many projects. I really enjoy 
+  it. I switch project to project and adapt the code patern of that project fix something or add some feature and then off to another project another new task. \
+  Lately I am working on a specific project as it had a really hard deadline. I am starting to believe that I might be a real quick fixer ....
+</p>
+<br>
+<p>The tech use here : Python/Django, mysql, postgresql, elasticsearch, celery, bootstrap, vanilla javascrip, jquery, docer etc </p>
+<br>
+<p>Journey Continues </p>
 
 <h2>Tech stack</h2>
 
@@ -103,10 +148,6 @@
 
 <br>
 <br>
-
-
-
-</details>
 
 <!-- Connection -->
 <h2> Connect with me <img src="https://github.com/oHTGo/oHTGo/blob/main/images/handshake.gif" height="35px"></h2>
